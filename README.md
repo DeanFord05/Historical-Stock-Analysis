@@ -6,3 +6,6 @@ Web-scrapped, analyzed stock data and graphed findings from Tesla and GameStop w
 
 # Data Analysis with SQLite3 in python
 Used SQLite3 in Jupyterlabs with python magiclines to connect to and access databases for analysis. Also plotted findings with matplotlib and seaborn.
+
+# House Sales in King Count USA 2023
+Using Pandas, Matplotlib, Seaborn, and Scikit-Learn to extract, clean, visualize, and predict housing data using statistical modeling.
